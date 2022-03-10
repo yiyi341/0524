@@ -1,5 +1,7 @@
 int main(void)
 {
-	printf("testing code.../n");
+
+	printf("changed function.c");
+	printf("ending");
 	return 0;
 }
