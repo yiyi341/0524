@@ -88,4 +88,8 @@ lol|218|3
 
 [github](https://github.com "跳转到github")
 
+## 插入图片
+
+![18](C://Users//C&C//Desktop//18岁.jpg "本地图片")
+
 
