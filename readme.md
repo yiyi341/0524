@@ -69,5 +69,19 @@ lol|218|3
      return 0;
   }
 ```
+```bash
+   sudo su
+   echo "输出字符串"
+   cd "path"
+```
+
+```cpp
+   #include <iostream>
+   using namespace
+   int main()
+   {
+      cout<<"输出字符串"<<endl;
+   }
+```
 
 
