@@ -58,4 +58,16 @@ csgo|198|1
 pubg|98|2
 lol|218|3
 
+## 插入代码片段
+
+```c
+  #include <stdio.h>
+  #include <string.h>
+  int main()
+  {
+     printf("hello\n");
+     return 0;
+  }
+```
+
 
